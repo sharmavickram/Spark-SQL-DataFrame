@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/R:/HADOOP_SPACE/Examples/Spark-SQL-DataFrame/project/"), "spark-sql-dataframe-build")...
+[debug] Done updating ProjectRef(uri("file:/R:/HADOOP_SPACE/Examples/Spark-SQL-DataFrame/project/"), "spark-sql-dataframe-build")
